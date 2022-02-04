@@ -1,4 +1,4 @@
 git status - mostra o status do git
 git add . - adiciona os arquivos ao servidor Git/GitHub
 git commit - m "mensagem" - cria um commit para os arquivos no servidor
-git push origin mais - manda para a nuvem
+git push origin main - manda para a nuvem
